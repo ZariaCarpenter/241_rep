@@ -1,12 +1,12 @@
-adjective (descriptor): 
-adjective (descriptor): 
-plural noun (person/place/thing):
-a number:
-plural noun (person/place/thing):
-adjective (descriptor): 
-proper noun (name of a person/place/thing):
-verb (action word) ending in -ing:
-adjective (descriptor):
-noun (person/place/thing):
-adjective (descriptor):
-noun (person/place/thing):
+adjective (descriptor): green 
+adjective (descriptor): big
+plural noun (person/place/thing): cups
+a number: 6
+plural noun (person/place/thing): cashier
+adjective (descriptor): smooth
+proper noun (name of a person/place/thing): Zenia
+verb (action word) ending in -ing: running
+adjective (descriptor): dark
+noun (person/place/thing): shoe
+adjective (descriptor): fluorescent
+noun (person/place/thing): calculator
