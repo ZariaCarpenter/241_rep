@@ -1,3 +1,4 @@
+
 adjective (descriptor): green 
 adjective (descriptor): big
 plural noun (person/place/thing): cups
@@ -7,6 +8,7 @@ adjective (descriptor): smooth
 proper noun (name of a person/place/thing): Zenia
 verb (action word) ending in -ing: running
 adjective (descriptor): dark
-noun (person/place/thing): shoe
+noun (person/place/thing): dog
 adjective (descriptor): fluorescent
 noun (person/place/thing): calculator
+
